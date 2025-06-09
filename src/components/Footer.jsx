@@ -15,10 +15,10 @@ const Footer = () => {
           <h3>Zenobia Digital</h3>
           <p>Premium printing solutions with cutting-edge technology and exceptional craftsmanship.</p>
           <div className="social-links">
-            <a href="#"><FaFacebook /></a>
-            <a href="#"><FaTwitter /></a>
-            <a href="#"><FaInstagram /></a>
-            <a href="#"><FaLinkedin /></a>
+            <a href="www.facebook.com"><FaFacebook /></a>
+            <a href="www.x.com"><FaTwitter /></a>
+            <a href="www.instagram.com"><FaInstagram /></a>
+            <a href="www.linkedin.com"><FaLinkedin /></a>
           </div>
         </div>
         <div className="footer-column">
@@ -31,11 +31,11 @@ const Footer = () => {
         </div>
         <div className="footer-column">
           <h3>Services</h3>
-          <a href="#">Digital Printing</a>
-          <a href="#">Large Format Printing</a>
-          <a href="#">3D Printing</a>
-          <a href="#">Packaging Solutions</a>
-          <a href="#">Graphic Design</a>
+          <a href="printing">Digital Printing</a>
+          <a href="large">Large Format Printing</a>
+          <a href="3d">3D Printing</a>
+          <a href="package">Packaging Solutions</a>
+          <a href="graphics">Graphic Design</a>
         </div>
         <div className="footer-column">
           <h3>Contact Info</h3>
