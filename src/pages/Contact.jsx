@@ -29,11 +29,13 @@ const Contact = () => {
             <h2>Contact Information</h2>
             <div className="info-item">
               <h3>Address</h3>
-              <p>123 Printing Street, Tech City, TC 10001</p>
+              <p>Shop 59 & 60 Amsterdam Shopping Complex, Beside Eco bank along Ugbowo-Lagos road
+                Benin City, Edo State
+              </p>
             </div>
             <div className="info-item">
               <h3>Phone</h3>
-              <p>+1 (555) 123-4567</p>
+              <p>+234 (906) 380-1503</p>
             </div>
             <div className="info-item">
               <h3>Email</h3>
