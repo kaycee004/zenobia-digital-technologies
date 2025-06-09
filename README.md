@@ -68,3 +68,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=================================
+# Zenobia Digital Technologies
+
+Premium printing solutions website built with ReactJS.
+
+## Features
+- Dark blue theme
+- Mobile responsive design
+- Classy animations
+- Home, Contact, Testimonials, Gallery, and Blog pages
+
+## Installation
+1. Clone the repository
+2. Run `npm install`
+3. Run `npm start`
