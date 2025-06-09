@@ -1,5 +1,6 @@
 // src/pages/Gallery.jsx
 import { motion } from 'framer-motion';
+import React, { useState } from 'react'
 import GalleryItem from '../components/GalleryItem';
 import '../styles/main.scss';
 
