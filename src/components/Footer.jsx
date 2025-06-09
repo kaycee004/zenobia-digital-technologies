@@ -39,8 +39,9 @@ const Footer = () => {
         </div>
         <div className="footer-column">
           <h3>Contact Info</h3>
-          <p>123 Printing Street, Tech City</p>
-          <p>Phone: +1 (555) 123-4567</p>
+          <p>Shop 59 & 60 Amsterdam Shopping Complex, Beside Eco bank along Ugbowo-Lagos road
+          Benin City, Edo State</p>
+          <p>Phone: +234 (906) 380-1503</p>
           <p>Email: info@zenobiadigital.com</p>
         </div>
       </div>
